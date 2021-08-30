@@ -8,4 +8,4 @@ Then, another prompt will ask the user if they would like to include or not incl
 After defining all parameters, the user will recieve a generated password within their criteria that will appear within the box.
 
 The application must retain and look like the mock up image below
-<img src="mock-up"/>
+<img href="mock-up"/>
